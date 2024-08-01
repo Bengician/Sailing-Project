@@ -1,0 +1,3 @@
+Parsing the PDF using regex statements didn't work. So I decided to use Power Query in Excel instead in the hopes that it would maintain the table structure in the PDFs. If there is a proper table structure, extracting the data I'm after will be easy with a spreadsheet.
+
+Using Excel worked. It was messy, but I was able to organize the race results and PHRF ratings into a flat table, build a pivot table, and build a few graphs I can share with the yacht club. Check out the Excel file if you're curious as to how I did it.
